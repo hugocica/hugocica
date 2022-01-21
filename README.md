@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Hugo 👋 
+
+https://github-readme-stats.vercel.app/api?username={hugocica}
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={hugocica}
 
 <!--
 **hugocica/hugocica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
