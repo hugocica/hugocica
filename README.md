@@ -1,8 +1,8 @@
 ### Hi there, I'm Hugo 👋 
 
-https://github-readme-stats.vercel.app/api?username={hugocica}
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={hugocica}
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hugocica&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
 <!--
 **hugocica/hugocica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
