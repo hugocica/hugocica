@@ -28,10 +28,10 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   </p>
   <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=hugo-cicarelli-prontmed&show_icons=true&count_private=true&theme=radical" >
+    <img src="https://github-readme-stats.vercel.app/api?username=hugocica&show_icons=true&count_private=true&theme=radical" >
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugo-cicarelli-prontmed&show_icons=true&count_private=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocica&show_icons=true&count_private=true&theme=radical">
   </p>
 </div>
 
