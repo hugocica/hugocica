@@ -1,4 +1,10 @@
-### Hi there, I'm Hugo 👋 
+<h1 align='center'>
+  Hi there 👋 I'm Hugo 👨‍💻
+</h1>
+
+<p align='center'>
+  Front End Developer from Sao Paulo, Brazil.
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=hugocica&show_icons=true&count_private=true&theme=dark" width="350"></a>
