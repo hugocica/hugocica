@@ -1,17 +1,16 @@
 <div style="background-color: #151515;">
-  <h1 align='center'>
-    Hi there 👋 I'm Hugo 👨‍💻
-  </h1>
-
-  <p align='center'>
-    Front End Developer from Sao Paulo, Brazil.
-  </p>
+  <h1 align="center">Hi there 👋, I'm Hugo Cicarelli</h1>
+  <h3 align="center">A Front-End Developer from Sao Paulo, Brazil. Focused in React, React Native and Flutter</h3>
   
-  <p align="center">
-    <a href="https://www.linkedin.com/in/hugo-cicarelli-19190259/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
+  <ul>
+    <li> 🔭 I’m currently working on [Prontmed](https://www.linkedin.com/company/prontmed/)</li>
+    <li> 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
+    <li> 👯 I’m looking to share knowledge and collaborate with new devs!</li>
+    <li> 📫 How to reach me: **hcicarelli@gmail.com** or <a href="https://www.linkedin.com/in/hugo-cicarelli-19190259/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
+  </ul>
+
+  <br /><br />
+  
   <p align="center">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
