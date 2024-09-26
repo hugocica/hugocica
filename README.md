@@ -6,7 +6,7 @@
     <li> 🔭 I’m currently working on [Prontmed](https://www.linkedin.com/company/prontmed/)</li>
     <li> 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
     <li> 👯 I’m looking to share knowledge and collaborate with new devs!</li>
-    <li> 📫 How to reach me: **hcicarelli@gmail.com** or <a href="https://www.linkedin.com/in/hugo-cicarelli-19190259/" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></li>
+    <li> 📫 How to reach me: **hcicarelli@gmail.com** </li>
   </ul>
 
   <br /><br />
