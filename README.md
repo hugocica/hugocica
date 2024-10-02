@@ -3,7 +3,7 @@
   <h3 align="center">A Front-End Developer from Sao Paulo, Brazil. Focused in React, React Native and Flutter</h3>
   
   <ul>
-    <li> 🔭 I’m currently working on [Prontmed](https://www.linkedin.com/company/prontmed/)</li>
+    <li> 🔭 I’m currently working on <a target="_blank" href="https://www.linkedin.com/company/prontmed/">Prontmed</a></li>
     <li> 💬 Ask me about: **React, JavaScript, Typescript, HTML, CSS**
     <li> 👯 I’m looking to share knowledge and collaborate with new devs!</li>
     <li> 📫 How to reach me: **hcicarelli@gmail.com** </li>
